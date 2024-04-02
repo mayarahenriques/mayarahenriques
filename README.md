@@ -1,7 +1,6 @@
 ## Olá!
-Sou Mayara, estudante de Sistemas de Informação na Facisa.
-<div>
-  <a href="https://github.com/mayarahenriques">
-  
-  ##
+Sou Mayara, estudante de Sistemas de Informação na UniFacisa.
+Gosto muito de aprender linguagens de programação para desenvolver soluções. 
+
+
  
