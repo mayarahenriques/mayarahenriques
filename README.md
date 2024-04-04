@@ -1,6 +1,7 @@
 ## Hello! Sou Mayara Henriques, desenvolvedora de software.
-Estudante de Sistemas de Informação na UniFacisa. Atualmente no sétimo período do curso.
-Gosto muito de aprender linguagens de programação com foco em desenvolver soluções. 
+- Estudante de Sistemas de Informação na UniFacisa. 
+- Atualmente no sétimo período do curso.
+- Gosto muito de aprender linguagens de programação com foco em desenvolver soluções. 
 
  <div>
   <a href="https://github.com/mayarahenriques">
