@@ -2,9 +2,10 @@
 
 - Sou Mayara Henriques,
 - Desenvolvedora de Software,
+- Estagiária de Redes e Suporte na Justiça Federal da Paraíba,
 - Estudante de Sistemas de Informação na UniFacisa em Campina Grande, 
-- Atualmente no sétimo período do curso,
 - Gosto muito de aprender linguagens de programação com foco no desenvolvimento de soluções. 
+
 
  <div>
   <a href="https://github.com/mayarahenriques">
