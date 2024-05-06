@@ -19,6 +19,13 @@
 </div>
    
   ##
+
+# Como chegar até mim? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Woman%20Tipping%20Hand%20Light%20Skin%20Tone.png" alt="Woman Tipping Hand Light Skin Tone" width="25" height="25" />
+
+### 💌Email: mayarahenriquees@gmail.com
+### 💻Linkedin: [https://www.linkedin.com/in/mayarahenriques/) 
+
+##
  
 <div> 
  
