@@ -1,4 +1,7 @@
-## Hello! Sou Mayara Henriques, desenvolvedora de software.
+## Sou Mayara Henriques, desenvolvedora de software.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=1000&color=9CDFFB&random=false&width=500&lines=Hello%2C+welcome+to+my+github!+)](https://git.io/typing-svg)
+
 - Estudante de Sistemas de Informação na UniFacisa. 
 - Atualmente no sétimo período do curso.
 - Gosto muito de aprender linguagens de programação com foco no desenvolvimento de soluções. 
@@ -17,13 +20,6 @@
   <img align="center" alt="PostgreSql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-   
-  ##
-
-# Como chegar até mim? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Woman%20Tipping%20Hand%20Light%20Skin%20Tone.png" alt="Woman Tipping Hand Light Skin Tone" width="25" height="25" />
-
-### 💌Email: mayarahenriquees@gmail.com
-### 💻Linkedin: [https://www.linkedin.com/in/mayarahenriques/) 
 
 ##
  
