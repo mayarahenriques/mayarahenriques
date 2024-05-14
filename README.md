@@ -1,9 +1,11 @@
+<div align="center">    
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=1000&color=9CDFFB&random=false&width=500&lines=Hello%2C+welcome+to+my+github!+)](https://git.io/typing-svg)
+</div>
 
 - Sou Mayara Henriques,
-- Desenvolvedora de Software,
 - Estagiária de Redes e Suporte na Justiça Federal da Paraíba,
-- Estudante de Sistemas de Informação na UniFacisa em Campina Grande, 
+- Estudante de Sistemas de Informação na UniFacisa em Campina Grande, 🎓
 - Gosto muito de aprender linguagens de programação com foco no desenvolvimento de soluções. 
 
 
