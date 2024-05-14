@@ -8,10 +8,6 @@
 - Estudante de Sistemas de Informação na UniFacisa em Campina Grande, 🎓
 - Gosto muito de aprender linguagens de programação com foco no desenvolvimento de soluções. 
 
-
- <div>
-  <a href="https://github.com/mayarahenriques">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayarahenriques&layout=compact&langs_count=16&theme=omni"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
