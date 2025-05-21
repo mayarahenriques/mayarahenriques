@@ -4,9 +4,9 @@
 </div>
 
 - Sou Mayara Henriques;
-- Desenvolvedora Front-End;
-- Estudante de Sistemas de Informação na UniFacisa em Campina Grande 🎓;
-- Gosto muito de aprender linguagens de programação com foco no desenvolvimento de soluções. 
+- Analista de Qualidade de Software Júnior;
+- Estudante de Sistemas de Informação na UniFacisa em Campina Grande 🎓.
+
 
 </div>
 <div style="display: inline_block"><br>
